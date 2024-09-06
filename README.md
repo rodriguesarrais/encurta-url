@@ -1,2 +1,2 @@
-# encurta-url
-Encurtador de URLs.
+# encurtaUrl
+Encurtador de URLs desenvolvido em Java com Spring.
